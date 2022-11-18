@@ -1,0 +1,38 @@
+    p {
+        color: rgb(7, 7, 7);
+        font-size: 2em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: oblique;
+        text-emphasis-position: left;
+        background-attachment: relative;
+        border-left: 6px solid rgb(151, 224, 25);
+        border-right: 6px solid rgb(151, 224, 25);
+        border-radius: 10px;
+
+    }
+
+    h1 {
+        border: 3px rgb(151, 224, 25) solid;
+        border-radius: 20px / 10px;
+        text-shadow: 6px 3px 3px rgb(151, 224, 25);
+
+    }
+
+    h4 {
+        border: 4px rgb(151, 224, 25) solid;
+        border-bottom-left-radius: 10px / 5px;
+        text-shadow: 6px 3px 3px rgb(151, 224, 25);
+    }
+
+    #victor {
+        background: url(photos/background.jpg);
+        background-size: 100%;
+        margin: auto;
+        opacity: 0.8;
+        width: 90%;
+    }
+
+    #basse {
+        margin: auto;
+        width: 100%;
+    }
